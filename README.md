@@ -2,10 +2,8 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> covid19 Tracker
+> Hello React Front end
 - This react app displays greeting messages from the hello-rails-back-end API.
-
-![screenshot](./public/Capture.PNG)
 
 
 
@@ -15,11 +13,8 @@
 
 ## Live Demo
 
-[Live Demo](https://lustrous-marzipan-709a40.netlify.app/)
 
-## Live Video
 
-[Live Video]
 
 ## Getting Started
 

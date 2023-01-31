@@ -80,8 +80,6 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
-- Powered by [Covid-19-API](https://github.com/M-Media-Group/Covid-19-API)
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.

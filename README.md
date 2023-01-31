@@ -55,7 +55,7 @@ npm run build
 npm test
 ```
 
-[Hello-Rails_Back-End](https://github.com/Bantealem/hello-rails-back-end)
+[Hello-Rails-Back-End](https://github.com/Bantealem/hello-rails-back-end)
 
 ## Author
 

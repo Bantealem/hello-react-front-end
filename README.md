@@ -3,7 +3,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
 > Hello React Front end
-- This react app displays greeting messages from the hello-rails-back-end API.
+- This react app displays greeting messages from the hello-rails-back-end API. I have bulit rails back end using rails framework
 
 
 
@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
-git clone https://github.com/Bantealem/hello-react-front.git
+git clone https://github.com/Bantealem/hello-react-front-end.git
 cd ./repo_name
 ```
 
@@ -54,6 +54,8 @@ npm run build
 ```bash
 npm test
 ```
+
+[Hello-Rails_Back-End](https://github.com/Bantealem/hello-rails-back-end)
 
 ## Author
 

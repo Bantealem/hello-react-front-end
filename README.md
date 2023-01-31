@@ -19,7 +19,7 @@
 
 ## Live Video
 
-[Live Video](https://www.loom.com/share/78251e89014c4ea299a0867567947cd9)
+[Live Video]
 
 ## Getting Started
 
